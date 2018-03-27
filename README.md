@@ -1,3 +1,5 @@
+Our final report is in music-generating-recurrentFinalForSure-2.pdf.
+
 # How to generate music and heat maps using our default setup.
 Run the python code stored in MusicGeneration-and-Heatmaps.py.
 The code is split into 4 sections:
